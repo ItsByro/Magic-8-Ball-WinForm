@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic-8-Ball", "Magic-8-Ball.csproj", "{404F3BD1-395D-48D0-8F4C-BC51DEF7D1F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404F3BD1-395D-48D0-8F4C-BC51DEF7D1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404F3BD1-395D-48D0-8F4C-BC51DEF7D1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404F3BD1-395D-48D0-8F4C-BC51DEF7D1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404F3BD1-395D-48D0-8F4C-BC51DEF7D1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

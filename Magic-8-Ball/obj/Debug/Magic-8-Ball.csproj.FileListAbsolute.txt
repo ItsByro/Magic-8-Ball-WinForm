@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\bin\Debug\Magic-8-Ball.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\bin\Debug\Magic-8-Ball.exe
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\bin\Debug\Magic-8-Ball.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\obj\Debug\Magic-8-Ball.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\obj\Debug\Magic_8_Ball.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\obj\Debug\Magic-8-Ball.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\obj\Debug\Magic-8-Ball.exe
+C:\Users\User\Documents\SharpDevelop Projects\Magic-8-Ball\Magic-8-Ball\obj\Debug\Magic-8-Ball.pdb
