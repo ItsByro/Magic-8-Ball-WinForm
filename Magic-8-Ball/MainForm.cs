@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: Byro
  * Date: 3/6/2026
@@ -40,7 +40,7 @@ namespace Magic_8_Ball
 				"Outlook not so good",
 				"Very doubtful"
 			};
-			 public Random random = new Random();
+		public Random random = new Random();
 		
 		public MainForm() 
 		{
@@ -53,9 +53,17 @@ namespace Magic_8_Ball
 		}
 		public void BtnAsksClick(object sender, EventArgs e)
 		{
-			string ballshow = M8B_ans[random.Next(M8B_ans.Length)];
-			MessageBox.Show(ballshow);
-			tbxUserInput.Clear();
+			if (string.IsNullOrWhiteSpace(tbxUserInput.Text))
+			{
+				MessageBox.Show("Input a Question");
+			}
+			else 
+			{
+				string ballshow = M8B_ans[random.Next(M8B_ans.Length)];
+				MessageBox.Show(ballshow);
+				tbxUserInput.Clear();
+			}
+			
 		}
 	}
 }
